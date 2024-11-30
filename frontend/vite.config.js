@@ -7,7 +7,7 @@ export default defineConfig({
 	server: {
 		proxy: {
 			"/api": {
-				target: "https://ecommercexmern-backend.onrender.com",
+				target: "https://ecommercexmern-backendd.onrender.com",
 			},
 		},
 	},
